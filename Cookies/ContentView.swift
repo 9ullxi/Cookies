@@ -44,8 +44,7 @@ struct ContentView: View {
                 .foregroundColor(.white)
                 .cornerRadius(10)
                 .shadow(color: /*@START_MENU_TOKEN@*/.black/*@END_MENU_TOKEN@*/, radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/, x: 5.0, y: -5.0)
-                
-                
+              
                 
                 Text(message)
                     .padding()
